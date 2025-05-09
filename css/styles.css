@@ -17,6 +17,14 @@ body {
   filter: brightness(0.5);
   z-index: -1;
 }
+#modal-img {
+  max-width: 50vw;
+  height: auto;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
 
 .grid div {
   background-color: black;
