@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Joyeux Anniversaire Alexia ~</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <audio id="bg-music" autoplay loop>
+        <source src="audio/une_vie_a_taimer.mp3" type="audio/mp3">
+        Votre navigateur ne supporte pas l'audio HTML5.
+    </audio>
+    <div class="background"></div>
+    <div class="intro">
+        <h1>Bienvenue, Alexia ♛</h1>
+        <button onclick="startSite()">Commencer</button>
+    </div>
+    <div id="calendar" class="hidden">
+        <div class="grid"></div>
+    </div>
+    <div id="modal" class="hidden">
+        <div id="quote"></div>
+        <img id="modal-img" src="" alt="Photo">
+        <button onclick="nextStep()">→ Suivant</button>
+        <button onclick="closeModal()">Fermer</button>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
