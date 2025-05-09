@@ -20,6 +20,13 @@ body {
     0% { opacity: 0.2; }
     100% { opacity: 0.5; }
 }
+#quote {
+  white-space: pre-wrap; /* allows line breaks */
+  overflow-y: auto; /* scroll if too long */
+  max-height: 80vh; /* limits height but still shows scroll */
+  font-size: 1.2em;
+  padding: 1em;
+}
 
 .grid {
     display: grid;
