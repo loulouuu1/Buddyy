@@ -5,6 +5,33 @@
     color: white;
     text-align: center;
 }
+/* Ajoute un z-index pour le bouton */
+#welcome-page {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3em;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 10; /* Assure-toi que le bouton est au-dessus de l'image */
+}
+
+button {
+    background-color: #dabfff; /* violet pastel */
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 10px;
+    z-index: 15; /* Le bouton doit être au-dessus de tout le reste */
+}
+
+button:hover {
+    background-color: #b6a0d1; /* lighter violet */
+}
 
 .background {
   position: fixed;
