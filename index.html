@@ -4,33 +4,27 @@
     <meta charset="UTF-8">
     <title>Pour Alexia ~</title>
     <link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
 </head>
 <body>
-    <audio id="bg-music" autoplay loop>
-        <source src="audio/clair-obscur.mp3" type="audio/mp3">
+   <audio id="bg-music" autoplay loop>
+      <source src="audio/clair-obscur.mp3" type="audio/mp3">
     </audio>
-   
-
-    <!-- Page de Garde -->
-    <div id="welcome-page">
+    <div class="background"></div>
+    <div class="intro">
         <h1>Bienvenue, Alexia ♛</h1>
         <button onclick="startSite()">Commencer</button>
     </div>
-
-    <!-- Calendrier -->
     <div id="calendar" class="hidden">
         <div class="grid"></div>
     </div>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
 
-    <!-- Modal pour les Citations et Images -->
     <div id="modal" class="hidden">
         <div id="quote"></div>
         <img id="modal-img" src="" alt="Photo">
         <button onclick="nextStep()">→ Suivant</button>
         <button onclick="closeModal()">Fermer</button>
     </div>
-
     <script src="js/script.js"></script>
 </body>
 </html>
