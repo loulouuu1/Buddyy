@@ -33,7 +33,6 @@ Wont lose u agaiiiin and dun wowwy we will make our trips to Korea, Japan & Chin
 ];
 
 
-
 const images = [
   'images/1.jpg',
   'images/2.jpg',
