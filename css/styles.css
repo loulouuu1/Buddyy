@@ -5,6 +5,24 @@ body {
     color: white;
     text-align: center;
 }
+.grid div {
+  background-color: black;
+  border: 3px solid #dabfff; /* violet pastel */
+  border-radius: 15px;
+  color: white;
+  padding: 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.grid div:hover {
+  transform: scale(1.05);
+}
+body {
+  font-family: 'Great Vibes', cursive;
+  color: white;
+}
 
 .background {
     background: url('https://i.pinimg.com/originals/cb/d1/bb/cbd1bb9966c7b00c0cd2b697f9ed9f51.jpg') no-repeat center center fixed;
