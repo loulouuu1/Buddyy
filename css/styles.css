@@ -1,29 +1,23 @@
-/* Body */
 body {
     margin: 0;
-    font-family: 'Great Vibes', cursive; /* Police cursive */
-    background-color: black;
+    font-family: 'Great Vibes', cursive;
     color: white;
     text-align: center;
-    font-size: 3em; /* Augmente la taille de la police */
+    background-color: transparent; /* Retirer le fond noir */
 }
 
-/* Background */
 .background {
     position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('images/background.jpg');
+    background-image: url('images/background.jpg'); /* Ton image de fond */
     background-size: cover;
     background-position: center;
-    filter: brightness(0.5);
-    z-index: -1;
-    opacity: 0.6; /* Modifie la transparence du fond */
+    z-index: -1; /* L'image est en arrière-plan */
 }
 
-/* Modal Image */
 #modal-img {
     max-width: 50vw;
     height: auto;
@@ -32,42 +26,37 @@ body {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
 }
 
-/* Grid Div Styling */
+/* Ajuster la taille et la bordure des cases */
 .grid div {
-    background-color: black;
-    border: 5px solid #dabfff; /* violet pastel avec bordure plus large */
-    border-radius: 25px; /* Bordures arrondies plus marquées */
+    background-color: rgba(0, 0, 0, 0.7); /* Légèrement transparent pour voir l'image de fond */
+    border: 4px solid #dabfff; /* violet pastel */
+    border-radius: 20px;
     color: white;
-    padding: 30px; /* Augmenter l'espace intérieur pour agrandir les cases */
-    font-size: 2em; /* Agrandir la police à l'intérieur des cases */
+    padding: 30px; /* Augmenter la taille des cases */
+    font-size: 1.5em; /* Augmenter la taille de la police dans les cases */
     cursor: pointer;
-    transition: transform 0.2s ease;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3); /* Ombre plus marquée pour les cases */
+    transition: transform 0.2s;
 }
 
-/* Hover effect for grid items */
 .grid div:hover {
-    transform: scale(1.1); /* Agrandir légèrement les cases au survol */
+    transform: scale(1.05);
 }
 
-/* Quote Styling */
 #quote {
-    white-space: pre-wrap; /* allows line breaks */
-    overflow-y: auto; /* scroll if too long */
-    max-height: 80vh; /* limits height but still shows scroll */
-    font-size: 1.5em; /* Augmente la taille de la police dans les citations */
-    padding: 2em; /* Augmenter l'espace autour du texte */
+    white-space: pre-wrap; /* Permet les retours à la ligne */
+    overflow-y: auto; /* Scroll si le texte est trop long */
+    max-height: 80vh; /* Limite la hauteur mais garde le scroll */
+    font-size: 1.5em; /* Augmenter la taille du texte */
+    padding: 2em; /* Ajouter du padding autour du texte */
 }
 
-/* Grid Layout */
 .grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Réduit le nombre de colonnes pour un look plus spacieux */
-    gap: 15px; /* Espace entre les éléments de la grille */
-    padding: 30px; /* Ajouter du padding autour de la grille */
+    grid-template-columns: repeat(3, 1fr); /* Plus de largeur pour les cases */
+    gap: 20px; /* Augmenter l'écart entre les cases */
+    padding: 20px;
 }
 
-/* Hidden Class */
 .hidden {
     display: none;
 }
