@@ -1,9 +1,9 @@
 body {
     margin: 0;
     font-family: 'Great Vibes', cursive;
+    background-color: black;
     color: white;
     text-align: center;
-    background-color: transparent; /* Retirer le fond noir */
 }
 
 .background {
@@ -12,10 +12,11 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('images/background.jpg'); /* Ton image de fond */
+    background-image: url('images/background.jpg');
     background-size: cover;
     background-position: center;
-    z-index: -1; /* L'image est en arrière-plan */
+    filter: brightness(0.8); /* Augmenter un peu la luminosité pour que l'image de fond soit plus visible */
+    z-index: -1;
 }
 
 #modal-img {
@@ -28,7 +29,7 @@ body {
 
 /* Ajuster la taille et la bordure des cases */
 .grid div {
-    background-color: rgba(0, 0, 0, 0.7); /* Légèrement transparent pour voir l'image de fond */
+    background-color: black;
     border: 4px solid #dabfff; /* violet pastel */
     border-radius: 20px;
     color: white;
@@ -60,3 +61,4 @@ body {
 .hidden {
     display: none;
 }
+
