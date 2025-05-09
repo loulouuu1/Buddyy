@@ -1,9 +1,9 @@
-body {
+ body {
     margin: 0;
-    font-family: 'Great Vibes', cursive;
-    background-color: black;
+    font-family: 'Great Vibes', cursive; /* Cursive plus légère */
     color: white;
     text-align: center;
+    background-color: transparent;
 }
 
 .background {
@@ -15,7 +15,6 @@ body {
     background-image: url('images/background.jpg');
     background-size: cover;
     background-position: center;
-    filter: brightness(0.8); /* Augmenter un peu la luminosité pour que l'image de fond soit plus visible */
     z-index: -1;
 }
 
@@ -27,14 +26,14 @@ body {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
 }
 
-/* Ajuster la taille et la bordure des cases */
+/* Ajustement de la taille des cases et du texte */
 .grid div {
-    background-color: black;
-    border: 4px solid #dabfff; /* violet pastel */
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 4px solid #dabfff;
     border-radius: 20px;
     color: white;
-    padding: 30px; /* Augmenter la taille des cases */
-    font-size: 1.5em; /* Augmenter la taille de la police dans les cases */
+    padding: 25px; /* Ajusté pour une meilleure taille */
+    font-size: 1.4em; /* Taille de police modifiée */
     cursor: pointer;
     transition: transform 0.2s;
 }
@@ -44,21 +43,20 @@ body {
 }
 
 #quote {
-    white-space: pre-wrap; /* Permet les retours à la ligne */
-    overflow-y: auto; /* Scroll si le texte est trop long */
-    max-height: 80vh; /* Limite la hauteur mais garde le scroll */
-    font-size: 1.5em; /* Augmenter la taille du texte */
-    padding: 2em; /* Ajouter du padding autour du texte */
+    white-space: pre-wrap;
+    overflow-y: auto;
+    max-height: 80vh;
+    font-size: 1.4em; /* Taille de la police un peu plus petite */
+    padding: 1.5em;
 }
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Plus de largeur pour les cases */
-    gap: 20px; /* Augmenter l'écart entre les cases */
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
     padding: 20px;
 }
 
 .hidden {
     display: none;
 }
-
