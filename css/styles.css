@@ -1,62 +1,83 @@
  body {
     margin: 0;
-    font-family: 'Great Vibes', cursive; /* Cursive plus légère */
+    font-family: 'Segoe UI', sans-serif;
+    background-color: black;
     color: white;
     text-align: center;
-    background-color: transparent;
 }
 
 .background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-image: url('images/background.jpg');
-    background-size: cover;
-    background-position: center;
-    z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.5);
+  z-index: -1;
 }
 
 #modal-img {
-    max-width: 50vw;
-    height: auto;
-    border-radius: 20px;
-    object-fit: cover;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  max-width: 50vw;
+  height: auto;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
 }
 
-/* Ajustement de la taille des cases et du texte */
 .grid div {
-    background-color: rgba(0, 0, 0, 0.7);
-    border: 4px solid #dabfff;
-    border-radius: 20px;
-    color: white;
-    padding: 25px; /* Ajusté pour une meilleure taille */
-    font-size: 1.4em; /* Taille de police modifiée */
-    cursor: pointer;
-    transition: transform 0.2s;
+  background-color: black;
+  border: 3px solid #dabfff; /* violet pastel */
+  border-radius: 15px;
+  color: white;
+  padding: 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: transform 0.2s;
 }
 
 .grid div:hover {
-    transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+body {
+  font-family: 'Great Vibes', cursive;
+  color: white;
+}
+
+.background {
+    background: url('https://i.pinimg.com/originals/cb/d1/bb/cbd1bb9966c7b00c0cd2b697f9ed9f51.jpg') no-repeat center center fixed;
+    background-size: cover;
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    opacity: 0.3;
+    animation: fadeBackground 10s infinite alternate;
+    z-index: -1;
+}
+
+@keyframes fadeBackground {
+    0% { opacity: 0.2; }
+    100% { opacity: 0.5; }
 }
 
 #quote {
-    white-space: pre-wrap;
-    overflow-y: auto;
-    max-height: 80vh;
-    font-size: 1.4em; /* Taille de la police un peu plus petite */
-    padding: 1.5em;
+  white-space: pre-wrap; /* allows line breaks */
+  overflow-y: auto; /* scroll if too long */
+  max-height: 80vh; /* limits height but still shows scroll */
+  font-size: 1.2em;
+  padding: 1em;
 }
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
     padding: 20px;
 }
 
 .hidden {
     display: none;
 }
+
