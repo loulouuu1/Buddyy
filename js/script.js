@@ -12,7 +12,7 @@ Yet, no matter how much I despise it, whenever it's uuuu who talks about ur work
 Tu t'en rends pas compte mais t'as vraiment le pouvoir de changer les gens et c'est cet espèce de feeling qu est le plus attrayant chez toiii, genre 1er degré, on a l'impression de decouvrir de nouvelles emotions, de vouloir s'ouvrir et tout, je jure en amie normale u suck u re the worst mdrrr mais en buddy u incrrrrrrrrr.  `,
 
   `Celle là, elle est un peu plus personnelllle, tsais que mes premières soirées enjoyables, c'était avec toiii? 
-Mes premières cuites, mes premiers vomis, mes premiers champis, ma 1ère pompe car ui je m'étais déja fait pompé mdrrr mais jamais eu de pompe de jaeger !!!`
+Mes premières cuites, mes premiers vomis, mes premiers champis, ma 1ère pompe car ui je m'étais déja fait pompé mdrrr mais jamais eu de pompe de jaeger !!!`,
 
   `Y a moyen de Clotairerrrr ouuuu? Eh on se rend pas compte mais 100 mots c durrr jss habitué à te faire des pavés mais po comme ca oops so mmmh let me startttt
   J'eus aimé use ChatGPT mais ca aurait po été réel so nahhhh
@@ -66,29 +66,29 @@ Mes premières cuites, mes premiers vomis, mes premiers champis, ma 1ère pompe 
   48. My Masterrrr ccccc
   49. D R A M A 👒 je jure si tt dans expedition 33 t'aurais fini par etre la buddy de la Peintresse mdrrrr
   50. Luved by lou ~ could keep keeepppp but its just a first version of my site for youuu, cant do the 100 if it's not as perfect as u so t'auras les 100 qd jserai asssz boooon
-`
+`,
   `Fiouuuuu from now on ca va surtout etre une photo un souvenirrrrr 
 So let's startttt, je jure c drole mais this one is the moment ur family s'est agrandieeee.
-Jpensais pas t aurais un enfant avant d'avoir un chat mdrrr !!! `
+Jpensais pas t aurais un enfant avant d'avoir un chat mdrrr !!! `,
 
-  ` On rigole On rigole it was ur first time getting isekai'd. Jusqu'a ajd je suis encore subjugué par la coupe mdrrrr c'était hyper stylééééé j'ai adoréééé`
-  `OUR BEST NAILSSSSSSSSSSSSSS C ETAIT TROOOO BOOOOOOOOO ON AVAIT TROOOOO GEREEEEEEEEEEE`
-  ` just uuuuu, certes j'étais sous pollen mais c'était la 1ere fois apres la pause qu on se revoit chez tes parentssss so its special oops`
-  ` U being the real u ! A w-i-t-c-h oh my gawd`
-  ` En vrrrrr le rp tante te va troooop bien, vous etes troooo cutes toi et Marius`
-  `Tu t'es laissée attendrir par le rp tante? Allez bah ca part, time for the RP Bitch, regarde tes beaux pieds volupteux :p`
-  ` Une Shiwwu dans toute sa splendeur, des manières dignes d'une reine 🪞 ah nn my bad ... digne de Cruelle ooops`
-  `Encore un rp pute drftgyhujikol`
-  ` This one is not for uuuu but for an extension of ur soullll, our cutie bby Boubouille`
-  `This one is our first photoooo togetherrrr suivies d'un Post insta "best photograph x best modellleeee" `
-`This one isss ... bah je jure une de mes photos pref? jpensais pas que le chocolat te rendrait aussi belle? je je oui`
-  `This one is uuuu shining as much as the flowerrrs`
-  `This one is a reality check mdrrrrr mais tkt luv u too`
-  `This is a work of artttttttt`
-  `C'est pour te rappeler ton passé de furry`
-  `Jte laisse flexxxxxxx`
-  `This one is a SIA cover by Bossiere Alexia ....  une paralysie du sommeil`
-  `This is .... kdo sorry`
+  ` On rigole On rigole it was ur first time getting isekai'd. Jusqu'a ajd je suis encore subjugué par la coupe mdrrrr c'était hyper stylééééé j'ai adoréééé`,
+  `OUR BEST NAILSSSSSSSSSSSSSS C ETAIT TROOOO BOOOOOOOOO ON AVAIT TROOOOO GEREEEEEEEEEEE`,
+  ` just uuuuu, certes j'étais sous pollen mais c'était la 1ere fois apres la pause qu on se revoit chez tes parentssss so its special oops`,
+  ` U being the real u ! A w-i-t-c-h oh my gawd`,
+  ` En vrrrrr le rp tante te va troooop bien, vous etes troooo cutes toi et Marius`,
+  `Tu t'es laissée attendrir par le rp tante? Allez bah ca part, time for the RP Bitch, regarde tes beaux pieds volupteux :p`,
+  ` Une Shiwwu dans toute sa splendeur, des manières dignes d'une reine 🪞 ah nn my bad ... digne de Cruelle ooops`,
+  `Encore un rp pute drftgyhujikol`,
+  ` This one is not for uuuu but for an extension of ur soullll, our cutie bby Boubouille`,
+  `This one is our first photoooo togetherrrr suivies d'un Post insta "best photograph x best modellleeee" `,
+`This one isss ... bah je jure une de mes photos pref? jpensais pas que le chocolat te rendrait aussi belle? je je oui`,
+  `This one is uuuu shining as much as the flowerrrs`,
+  `This one is a reality check mdrrrrr mais tkt luv u too`,
+  `This is a work of artttttttt`,
+  `C'est pour te rappeler ton passé de furry`,
+  `Jte laisse flexxxxxxx`,
+  `This one is a SIA cover by Bossiere Alexia ....  une paralysie du sommeil`,
+  `This is .... kdo sorry`,
 
 
   
