@@ -11,7 +11,7 @@ Mes premières cuites, mes premiers vomis, mes premiers champis, ma 1ère pompe 
   `Fiouuuuu from now on ca va surtout etre une photo un souvenirrrrr [...]
 Jpensais pas t aurais un enfant avant d'avoir un chat mdrrr !!!`,
   `On rigole On rigole it was ur first time getting isekai'd [...]`,
-  `OUR BEST NAILSSSSSSSSSSSSSS [...]`,
+  `OUR BEST NAILSSSSSSSSSSSSSS [...]`,  
   `just uuuuu, certes j'étais sous pollen [...]`,
   `U being the real u ! A w-i-t-c-h oh my gawd`,
   `En vrrrrr le rp tante te va troooop bien [...]`,
@@ -33,7 +33,34 @@ Wont lose u agaiiiin and dun wowwy we will make our trips to Korea, Japan & Chin
 ];
 
 
-const images = Array.from({ length: 24 }, (_, i) => `images/img${i + 1}.jpg`);
+
+const images = [
+  'images/1.jpg',
+  'images/2.jpg',
+  'images/3.jpg',
+  'images/4.jpg',
+  'images/5.jpg',
+  'images/6.jpg',
+  'images/7.jpg',
+  'images/8.jpg',
+  'images/9.jpg',
+  'images/10.jpg',
+  'images/11.jpg',
+  'images/12.jpg',
+  'images/13.jpg',
+  'images/14.jpg',
+  'images/15.jpg',
+  'images/16.jpg',
+  'images/17.jpg',
+  'images/18.jpg',
+  'images/19.jpg',
+  'images/20.jpg',
+  'images/21.jpg',
+  'images/22.jpg',
+  'images/23.jpg',
+  'images/24.jpg'
+];
+
 let currentDay = 0;
 
 const grid = document.querySelector('.grid');
